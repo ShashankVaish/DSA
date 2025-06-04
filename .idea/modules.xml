@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Musicplayer/Musicplayer.iml" filepath="$PROJECT_DIR$/Musicplayer/Musicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignmnet/assignmnet.iml" filepath="$PROJECT_DIR$/assignmnet/assignmnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarysearch/binarysearch.iml" filepath="$PROJECT_DIR$/binarysearch/binarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codechef/codechef.iml" filepath="$PROJECT_DIR$/codechef/codechef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeforces/codeforces.iml" filepath="$PROJECT_DIR$/codeforces/codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structure_lab/data_structure_lab.iml" filepath="$PROJECT_DIR$/data_structure_lab/data_structure_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtube video/difference_between_heap_and_deap/difference_between_heap_and_deap.iml" filepath="$PROJECT_DIR$/youtube video/difference_between_heap_and_deap/difference_between_heap_and_deap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dimentional_array/dimentional_array.iml" filepath="$PROJECT_DIR$/dimentional_array/dimentional_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtube video/frequency_array/frequency_array.iml" filepath="$PROJECT_DIR$/youtube video/frequency_array/frequency_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise/practise.iml" filepath="$PROJECT_DIR$/practise/practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revision/revision.iml" filepath="$PROJECT_DIR$/revision/revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+    </modules>
+  </component>
+</project>
